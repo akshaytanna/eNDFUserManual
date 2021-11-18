@@ -1,3 +1,0 @@
-# Starting to develop an NDF
-
-To begin an eNDF, the NDF admin needs to initialise an answerset. This can be done by
