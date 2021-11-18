@@ -6,9 +6,12 @@ site: bookdown::bookdown_site
 ---
 # Preface{-}
 ![](images/eNDF_logo.png)
+Here's a three-minute video that demonstrates the process:
+
+(ref:workflow-video) Short video of our Bookdown workflow. View [on YouTube](https://youtu.be/8uFABzUG6Lw).
 
 ```{r workflow-video, fig.cap="(ref:workflow-video)"}
-if(knitr::is_html_output(excludes="markdown")) knitr::include_url("https://www.youtube.com/watch?v=xuP4g7IDgDM")
+if(knitr::is_html_output(excludes="markdown")) knitr::include_url("https://www.youtube.com/embed/8uFABzUG6Lw")
 ```
 
 

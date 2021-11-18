@@ -165,10 +165,17 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </div>
 <div id="preface" class="section level1 unnumbered">
 <h1>Preface</h1>
-<p><img src="images/eNDF_logo.png" /></p>
-<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">include_url</span>(<span class="st">&quot;https://www.youtube.com/watch?v=xuP4g7IDgDM&quot;</span>)</span></code></pre></div>
-<iframe src="https://www.youtube.com/watch?v=xuP4g7IDgDM" width="672" height="400px">
+<p><img src="images/eNDF_logo.png" />
+Here’s a three-minute video that demonstrates the process:</p>
+
+<div class="sourceCode" id="cb1"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb1-1"><a href="index.html#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="cf">if</span>(knitr<span class="sc">::</span><span class="fu">is_html_output</span>(<span class="at">excludes=</span><span class="st">&quot;markdown&quot;</span>)) knitr<span class="sc">::</span><span class="fu">include_url</span>(<span class="st">&quot;https://www.youtube.com/embed/8uFABzUG6Lw&quot;</span>)</span></code></pre></div>
+<div class="figure"><span style="display:block;" id="fig:workflow-video"></span>
+<iframe src="https://www.youtube.com/embed/8uFABzUG6Lw" width="672" height="400px">
 </iframe>
+<p class="caption">
+Figure 0.1: Short video of our Bookdown workflow. View <a href="https://youtu.be/8uFABzUG6Lw">on YouTube</a>.
+</p>
+</div>
 <p>This document servers as a user manual for the <a href="https://user.cites-endf.org">BfN-BRT CITES e-NDF</a>. While information from the relevant guidance document is available using the clickable help files for there relevant step/section/question, this website is intended to serve as a document to assist users with using the functionality of the e-NDF.</p>
 <p>The workflow for the e-NDF is illustrated below</p>
 
