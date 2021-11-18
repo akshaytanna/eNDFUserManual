@@ -5,3 +5,10 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
 
+```markdown
+# Preface {-}
+
+## level 2
+In this book, we will introduce an interesting
+method.
+  ```
