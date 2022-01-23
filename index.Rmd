@@ -4,8 +4,9 @@ author: "Akshay Tanna"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
-  bookdown::html_book:
-    theme: yeti
+  bookdown::tufte_html_book:
+    toc: true
+    css: toc.css
 ---
 # Preface{-}
 ![](images/eNDF_logo.png)
