@@ -12,3 +12,9 @@ pre {
 pre code {
   white-space: inherit;
 }
+<style>
+.main-container {
+    width: 100%;
+    max-width: unset;
+}
+</style>
