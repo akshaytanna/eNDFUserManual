@@ -11,7 +11,7 @@ output:
 
 ---
 # Preface{-}
-![](images/eNDF_logo.png)
+![](images/Cover.jpeg)
 Here's a three-minute video that demonstrates the process:
 
 (ref:workflow-video) Short video of our Bookdown workflow. View [on YouTube](https://youtu.be/8uFABzUG6Lw).
@@ -26,6 +26,6 @@ This document servers as a user manual for the [BfN-BRT CITES e-NDF](https://use
 The workflow for the e-NDF is illustrated below. United.
 
 ```{asis, echo=!knitr::is_latex_output()}
-<p style="text-align: center;"><a href="https://www.blueresources.org"><img src="images/eNDF_logo.png" alt="logo" /></a></p>
+<p style="text-align: center;"><a href="https://www.blueresources.org"><img src="images/Cover.jpeg" alt="logo" /></a></p>
 ```
 
