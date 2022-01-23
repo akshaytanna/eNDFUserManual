@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output:
   bookdown::html_book:
-    theme: paper
+    theme: united
 ---
 # Preface{-}
 ![](images/eNDF_logo.png)
