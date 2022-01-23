@@ -1,2 +1,7 @@
 # Starting to develop an NDF
-To begin an e-NDF, the NDF admin needs to initialise an answerset. The steps involved are illustrated below
+To begin an e-NDF, the NDF admin needs to initialise an answerset. The steps involved are illustrated below.
+## Level1
+Blah blah blah
+## Level2
+Blah blah
+## Level3
