@@ -26,6 +26,8 @@ This document servers as a user manual for the [BfN-BRT CITES e-NDF](https://use
 The workflow for the e-NDF is illustrated below. United.
 
 ```{asis, echo=!knitr::is_latex_output()}
-<p style="text-align: center;"><a href="https://www.blueresources.org"><img src="images/Cover.jpeg" alt="logo" /></a></p>
+<p align="center">
+  <img src="images/Cover.jpeg">
+</p>
 ```
 
