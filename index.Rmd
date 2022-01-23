@@ -6,6 +6,8 @@ site: bookdown::bookdown_site
 output:
   bookdown::html_book:
     theme: cerulean
+    toc: true
+    css: toc.css
 
 ---
 # Preface{-}
@@ -22,3 +24,8 @@ if(knitr::is_html_output(excludes="markdown")) knitr::include_url("https://www.y
 This document servers as a user manual for the [BfN-BRT CITES e-NDF](https://user.cites-endf.org). While information from the relevant guidance document is available using the clickable help files for the relevant step/section/question, this website is intended to serve as a document to assist users with using the functionality of the e-NDF.
 
 The workflow for the e-NDF is illustrated below. United.
+
+```{asis, echo=!knitr::is_latex_output()}
+<p style="text-align: center;"><a href="https://www.blueresources.org"><img src="images/eNDF_logo.png" alt="logo" /></a></p>
+```
+
