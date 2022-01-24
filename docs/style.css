@@ -28,6 +28,13 @@ font-family: 'Lato', sans-serif;
 }
   /* all TOC list items, basically */
 
+li.appendix span, li.part span { /* for TOC part names */
+  margin-top: 1em;
+  color: color: #1c3046 !important;
+  opacity: 1 !important;
+}
+
+
 .book .book-summary ul.summary li a, 
 .book .book-summary ul.summary li span {
   padding-top: 8px;
@@ -56,3 +63,4 @@ font-family: 'Lato', sans-serif;
     font-size: 6pt; 
    }
 </style>  
+
