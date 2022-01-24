@@ -1,13 +1,9 @@
 --- 
-title: "User manual for e-NDF"
-author: "Akshay Tanna"
-date: "`r Sys.Date()`"
+title: "User manual for the CITES e-NDF"
 site: bookdown::bookdown_site
 output:
   bookdown::html_book:
     theme: cerulean
-    
-
 ---
 # Preface{-}
 ```{asis, echo=!knitr::is_latex_output()}

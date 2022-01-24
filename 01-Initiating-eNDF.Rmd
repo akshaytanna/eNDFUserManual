@@ -1,11 +1,15 @@
 # Developing an CITES NDF
 To begin an e-NDF, the NDF admin needs to initialise an Answerset. The steps involved are illustrated below.
 
+---
+
 ## Select and NDF to fill {#startanswerset}
 Select an NDF to create an Answerset
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
 knitr::include_graphics('images/Answerset1.png')
 ```
+
+---
 
 ## Name the Answerset
 Edit the name of the Answerset - ensure the name is descriptive and clear (eg. 'NDF for silky sharks - 2022')
@@ -13,10 +17,14 @@ Edit the name of the Answerset - ensure the name is descriptive and clear (eg. '
 knitr::include_graphics('images/Answerset2.png')
 ```
 
+---
+
 ## Create Answersets as needed
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
 knitr::include_graphics('images/Answerset3.png')
 ```
+
+---
 
 ## Next steps
 Once an Answerset are created, the NDF admin can proceed with [assigning users to enter data](#assignRights) into the respective NDF. 

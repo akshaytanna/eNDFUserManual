@@ -14,10 +14,14 @@ Click on the marked icon to select users
 knitr::include_graphics('images/Accessrightsmulti1.png')
 ```
 
+---
+
 ## Select multiple users as needed
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
 knitr::include_graphics('images/Accessrightsmulti2.png')
 ```
+
+---
 
 ## Confirm access assignment
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
@@ -33,16 +37,22 @@ Click on the marked icon to add users
 knitr::include_graphics('images/Singleuser1.png')
 ```
 
+---
+
 ## Select a single user as needed
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
 knitr::include_graphics('images/Singleuser2.png')
 ```
+
+---
 
 ## Assign access rights
 Select the relevant parts of the e-NDF to be assigned to the user by clicking through the e-NDF tree.
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
 knitr::include_graphics('images/Singleuser3.png')
 ```
+
+---
 
 ## Confirm access assignment
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
