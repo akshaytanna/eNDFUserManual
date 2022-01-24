@@ -19,3 +19,5 @@ click-on-add-users-1
 select-a-single-user-as-needed
 assign-access-rights
 confirm-access-assignment-1
+step-1-to-3
+step-4
