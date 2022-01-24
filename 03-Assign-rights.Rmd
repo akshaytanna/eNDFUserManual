@@ -28,7 +28,7 @@ knitr::include_graphics('images/Accessrightsmulti2.png')
 knitr::include_graphics('images/Accessrightsmulti3.png')
 ```
 
-# Access to the specific parts for users {#singleuser}
+# Access to specific parts for users {#singleuser}
 This functionality provides a method to provide finetuned access (to question level) for users of the e-NDF. Access can be granted after [Answersets have been created](#startanswerset).
 
 ## Click on add users

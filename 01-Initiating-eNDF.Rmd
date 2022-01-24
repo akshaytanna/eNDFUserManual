@@ -3,7 +3,7 @@ To begin an e-NDF, the NDF admin needs to initialise an Answerset. The steps inv
 
 ---
 
-## Select and NDF to fill {#startanswerset}
+## Select an NDF to fill {#startanswerset}
 Select an NDF to create an Answerset
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
 knitr::include_graphics('images/Answerset1.png')
