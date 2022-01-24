@@ -23,7 +23,7 @@ pre code {
   background: white;
   border-right: none;
 }
-.summary{
+.summary {
 font-family: 'Lato', sans-serif;
 }
   /* all TOC list items, basically */
@@ -42,3 +42,17 @@ font-family: 'Lato', sans-serif;
   border-color: #5699cc;
   padding-left: 11px !important;
 }  
+<style>
+   h1 {
+    font-family: 'Arial';
+    font-size: 20pt; 
+   }
+   h2 {
+    font-family: 'Arial Black';
+    font-size: 15pt; 
+   } 
+   pg {
+    font-family: 'MS UI Gothic'; 
+    font-size: 6pt; 
+   }
+</style>  
