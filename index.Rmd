@@ -10,14 +10,10 @@ output:
 
 ---
 # Preface{-}
-![](images/Cover.jpeg)
-This document servers as a user manual for the [BfN-BRT CITES e-NDF](https://user.cites-endf.org). While information from the relevant guidance document is available using the clickable help files for the relevant step/section/question, this website is intended to serve as a document to assist users with using the functionality of the e-NDF.
-
-The workflow for the e-NDF is illustrated below. United.
-
 ```{asis, echo=!knitr::is_latex_output()}
 <p align="center">
   <img src="images/Cover.jpeg">
 </p>
 ```
+This document servers as a user manual for the [BfN-BRT CITES e-NDF](https://user.cites-endf.org). While information from the relevant guidance document is available using the clickable help files for the relevant step/section/question, this website is intended to serve as a document to assist users with using the functionality of the e-NDF.
 
