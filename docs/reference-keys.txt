@@ -21,3 +21,12 @@ assign-access-rights
 confirm-access-assignment-1
 step-1-to-3
 step-4
+listmm
+click-on-setup-measures
+type-the-name-of-an-existing-measure-and-add-it-to-the-list
+continue-to-add-more-measure-as-needed
+answer-each-question-related-to-the-measure
+applymm
+select-the-relevant-pressure-from-the-tabs
+select-the-relevant-measure-and-apply-it-to-the-pressure
+assessmm
