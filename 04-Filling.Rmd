@@ -1,5 +1,43 @@
 # (PART) Filling data into an Answerset {-}
-# Step 1 to 3
+
+# Tools available to facilitate users
+The e-NDF has two inbuilt tools to assist users with filling an NDF.
+
+## Help for questions 
+This is abridged text from the [CITES Non-detriment Findings Guidance for Shark Species](https://cites.org/sites/default/files/eng/prog/shark/docs/Shark%20NDF%20guidance%20incl%20Annexes.pdf){target="_blank"} and is available for most questions.
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Help context.png')
+```
+
+---
+
+## Reference data from external databases 
+The e-NDF currently displays reference data in Step 2 from [Sharkipedia.org](https://www.sharkipedia.org/){target="_blank"} and from [The IUCN Red List of Threatened Species](https://www.iucnredlist.org/){target="_blank"}.
+
+**Note**: For reference data to be available, please click **Save and refresh** before moving to Step 2
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Referencedata.png')
+```
+
+# Step 1 to Step 3
+These steps are "question and answer" steps. Responses can be provided in two ways:
+
+1. By selecting data from a [drop down menu](#dropdown)
+
+2. By entering [text data](#textentry)
+
+## Selecting from a drop down {#dropdown}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Dropdown.png')
+```
+
+---
+
+## Entering text data {#textentry}
+Text data can also be entered. When entering data, the user can format the text with bold, italics, underline etc. as needed.
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Textentry.png')
+```
 
 # Step 4
 
@@ -15,22 +53,22 @@ The steps involved include
 
 ## List of existing management measures {#listmm}
 ### Click on **Setup measures**
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_1.png')
 ```
 
 ### Type the name of an existing measure and add it to the list
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_2.png')
 ```
 
 ### Continue to add more measure as needed
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_3.png')
 ```
 
 ### Answer each question related to the measure
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_4.png')
 ```
 
@@ -39,13 +77,13 @@ knitr::include_graphics('images/Step4_4.png')
 ## Apply measures to pressures {#applymm}
 
 ### Select the relevant pressure from the tabs
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_5.png')
 ```
 
 ### Select the relevant measure and apply it to the pressure
 Do this for all relevant pressure-measure combinations.
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_6.png')
 ```
 
@@ -53,6 +91,6 @@ knitr::include_graphics('images/Step4_6.png')
 
 ## Assess effectiveness of measures {#assessmm}
 Do this for all relevant pressure-measure combinations.
-```{r echo=FALSE, out.width='80%',fig.align='center'}
+```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step4_7.png')
 ```

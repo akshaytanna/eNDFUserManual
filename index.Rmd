@@ -3,8 +3,9 @@ title: "User manual for the CITES e-NDF"
 site: bookdown::bookdown_site
 cover-image: "images/Cover.png"
 output:
-  bookdown::html_book:
-    theme: cerulean
+  bookdown::gitbook:
+    includes:
+      in_header: header.html
 ---
 # Preface{-}
 ```{asis, echo=!knitr::is_latex_output()}

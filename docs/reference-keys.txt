@@ -19,7 +19,12 @@ click-on-add-users-1
 select-a-single-user-as-needed
 assign-access-rights
 confirm-access-assignment-1
-step-1-to-3
+tools-available-to-facilitate-users
+help-for-questions
+reference-data-from-external-databases
+step-1-to-step-3
+dropdown
+textentry
 step-4
 listmm
 click-on-setup-measures
