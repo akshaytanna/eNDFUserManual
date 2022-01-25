@@ -1,6 +1,7 @@
 --- 
 title: "User manual for the CITES e-NDF"
 site: bookdown::bookdown_site
+cover-image: "images/Cover.png"
 output:
   bookdown::html_book:
     theme: cerulean
