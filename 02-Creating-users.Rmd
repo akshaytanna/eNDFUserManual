@@ -3,14 +3,14 @@ An e-NDF admin can create multiple users to fill in an e-NDF. The admin can also
 
 ## Click the side bar 
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/User1.png')
+knitr::include_graphics('images/User1.svg')
 ```
 
 ---
 
 ## Navigate to the **Users** screen
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/User2.png')
+knitr::include_graphics('images/User2.svg')
 ```
 
 ---
@@ -20,14 +20,14 @@ Provide the name, a user id and a temporary password for the user. The user will
 
 **Admins can provide the temporary passwords to users directly.**
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/User3.png')
+knitr::include_graphics('images/User3.svg')
 ```
 
 ---
 
 ## Add more users as needed
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/User4.png')
+knitr::include_graphics('images/User4.svg')
 ```
 
 ---

@@ -11,21 +11,21 @@ This functionality provides a quick way to grant multiple users access to the en
 ## Click on add users
 Click on the marked icon to select users
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Accessrightsmulti1.png')
+knitr::include_graphics('images/Accessrightsmulti1.svg')
 ```
 
 ---
 
 ## Select multiple users as needed
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Accessrightsmulti2.png')
+knitr::include_graphics('images/Accessrightsmulti2.svg')
 ```
 
 ---
 
 ## Confirm access assignment
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Accessrightsmulti3.png')
+knitr::include_graphics('images/Accessrightsmulti3.svg')
 ```
 
 # Access to specific parts for users {#singleuser}
@@ -34,14 +34,14 @@ This functionality provides a method to provide finetuned access (to question le
 ## Click on add users
 Click on the marked icon to add users
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Singleuser1.png')
+knitr::include_graphics('images/Singleuser1.svg')
 ```
 
 ---
 
 ## Select a single user as needed
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Singleuser2.png')
+knitr::include_graphics('images/Singleuser2.svg')
 ```
 
 ---
@@ -49,12 +49,12 @@ knitr::include_graphics('images/Singleuser2.png')
 ## Assign access rights
 Select the relevant parts of the e-NDF to be assigned to the user by clicking through the e-NDF tree.
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Singleuser3.png')
+knitr::include_graphics('images/Singleuser3.svg')
 ```
 
 ---
 
 ## Confirm access assignment
 ```{r echo=FALSE, out.width='80%',fig.align='center'}
-knitr::include_graphics('images/Singleuser4.png')
+knitr::include_graphics('images/Singleuser4.svg')
 ```
