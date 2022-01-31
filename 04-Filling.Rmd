@@ -119,8 +119,37 @@ knitr::include_graphics('images/Step5_2.svg')
 ---
 
 ## Outcome decision {#outcomedecision}
-The outcome of the NDF can be decided by the user by selecting from a drop down menu. Additional information including a justification and an NDF expiry can also be set.
+The outcome of the NDF can be decided by the user by selecting from a drop down menu. Additional information including reasoning and an NDF expiry can also be set.
+
 ```{r echo=FALSE, out.width='100%',fig.align='center'}
 knitr::include_graphics('images/Step5_3.svg')
 ```
 
+Users can to proceed to Step 6 where additional management measures are suggested to improve the outcomes of future NDFs.
+
+# Step 6
+
+Step 
+## Step 6.1
+In step 6.1, an ordered list of recommendations is presented to users. The ordering is as follows:
+
+1. Recommendations that address pressures where the level of risk is high/unknown OR level of confidence is low OR management measures are not effective at addressing the pressure are shown first in <span style="background-color:#f57070">***red boxes***</span>.
+
+2. Recommendations that address pressures where the level of risk is at most medium AND level of confidence is at most medium OR management measures are at most partially effective at addressing the pressure are shown later in  <span style="background-color:#fab452">***yellow boxes***</span>.
+
+3. Recommendations that address pressures where the level of risk is low AND level of confidence is high AND management measures are effective at addressing the pressure are shown last in  <span style="background-color:#7cf3b0">***green boxes***</span>.
+
+```{r echo=FALSE, out.width='40%',fig.align='center'}
+knitr::include_graphics('images/Step6_1.svg')
+```
+
+The user can assess the applicability of each measure and enter information such as aims, objectives, potential lead agencies and deadlines for implementation.
+
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Step6_2.svg')
+```
+
+---
+
+## Step 6.2
+In Step 6.2, the user is encouraged to include additional management measures (not included in Step 6.1) to manage the species.

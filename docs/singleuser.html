@@ -56,12 +56,12 @@
   
    $('.summary > li > a > b, h1 > span, h1').each(function() {
       var temp = $(this).text();
-      $(this).text(temp.replace(/(\d|^\s)/, ''));
+      $(this).text(temp.replace(/(\d+|^\s)/, ''));
     });
 
    $('nav > ul > li > ul > li b, :header > span').each(function() {
       var temp = $(this).text();
-      $(this).text(temp.replace(/(\d\.)+/, ''));
+      $(this).text(temp.replace(/(\d+\.)+/, ''));
     });
       
   });
@@ -149,6 +149,10 @@
 <li class="chapter" data-level="9.1" data-path="step-5.html"><a href="step-5.html#summary"><i class="fa fa-check"></i><b>9.1</b> Summary</a></li>
 <li class="chapter" data-level="9.2" data-path="step-5.html"><a href="step-5.html#autorec"><i class="fa fa-check"></i><b>9.2</b> Automated recommendation</a></li>
 <li class="chapter" data-level="9.3" data-path="step-5.html"><a href="step-5.html#outcomedecision"><i class="fa fa-check"></i><b>9.3</b> Outcome decision</a></li>
+</ul></li>
+<li class="chapter" data-level="10" data-path="step-6.html"><a href="step-6.html"><i class="fa fa-check"></i><b>10</b> Step 6</a>
+<ul>
+<li class="chapter" data-level="10.1" data-path="step-6.html"><a href="step-6.html#step-6.2"><i class="fa fa-check"></i><b>10.1</b> Step 6.2</a></li>
 </ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>

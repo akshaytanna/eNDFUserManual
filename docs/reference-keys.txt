@@ -39,3 +39,5 @@ step-5
 summary
 autorec
 outcomedecision
+step-6
+step-6.2

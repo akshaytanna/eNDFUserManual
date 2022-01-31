@@ -30,7 +30,7 @@
   
   
 <link rel="prev" href="step-4.html"/>
-
+<link rel="next" href="step-6.html"/>
 <script src="libs/header-attrs-2.10/header-attrs.js"></script>
 <script src="libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.4.6/dist/fuse.min.js"></script>
@@ -56,12 +56,12 @@
   
    $('.summary > li > a > b, h1 > span, h1').each(function() {
       var temp = $(this).text();
-      $(this).text(temp.replace(/(\d|^\s)/, ''));
+      $(this).text(temp.replace(/(\d+|^\s)/, ''));
     });
 
    $('nav > ul > li > ul > li b, :header > span').each(function() {
       var temp = $(this).text();
-      $(this).text(temp.replace(/(\d\.)+/, ''));
+      $(this).text(temp.replace(/(\d+\.)+/, ''));
     });
       
   });
@@ -150,6 +150,10 @@
 <li class="chapter" data-level="9.2" data-path="step-5.html"><a href="step-5.html#autorec"><i class="fa fa-check"></i><b>9.2</b> Automated recommendation</a></li>
 <li class="chapter" data-level="9.3" data-path="step-5.html"><a href="step-5.html#outcomedecision"><i class="fa fa-check"></i><b>9.3</b> Outcome decision</a></li>
 </ul></li>
+<li class="chapter" data-level="10" data-path="step-6.html"><a href="step-6.html"><i class="fa fa-check"></i><b>10</b> Step 6</a>
+<ul>
+<li class="chapter" data-level="10.1" data-path="step-6.html"><a href="step-6.html#step-6.2"><i class="fa fa-check"></i><b>10.1</b> Step 6.2</a></li>
+</ul></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 </ul>
@@ -188,9 +192,9 @@
 </div>
 <div id="outcomedecision" class="section level2" number="9.3">
 <h2><span class="header-section-number">9.3</span> Outcome decision</h2>
-<p>The outcome of the NDF can be decided by the user by selecting from a drop down menu. Additional information including a justification and an NDF expiry can also be set.
-<img src="images/Step5_3.svg" width="100%" style="display: block; margin: auto;" /></p>
-
+<p>The outcome of the NDF can be decided by the user by selecting from a drop down menu. Additional information including reasoning and an NDF expiry can also be set.</p>
+<p><img src="images/Step5_3.svg" width="100%" style="display: block; margin: auto;" /></p>
+<p>Users can to proceed to Step 6 where additional management measures are suggested to improve the outcomes of future NDFs.</p>
 </div>
 </div>
             </section>
@@ -198,8 +202,8 @@
           </div>
         </div>
       </div>
-<a href="step-4.html" class="navigation navigation-prev navigation-unique" aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-
+<a href="step-4.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="step-6.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
