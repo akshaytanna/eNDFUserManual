@@ -36,3 +36,6 @@ select-the-relevant-pressure-from-the-tabs
 select-the-relevant-measure-and-apply-it-to-the-pressure
 assessmm
 step-5
+summary
+autorec
+outcomedecision

@@ -96,7 +96,31 @@ knitr::include_graphics('images/Step4_7.svg')
 ```
 
 # Step 5
-This step summarises the results from all previous steps of the e-NDF. 
-```{r echo=FALSE, out.width='100%',fig.align='center'}
+In step 5, the user is presented with a [summary](#summary) of all data entered in preceding steps of the NDF and the a [automated recommendation](#autorec) on the outcome of the NDF is provided. 
+
+***The user can however [decide the outcome](#outcomedecision) of the NDF from the drop down menu.***
+
+## Summary {#summary}
+This section summarises the results from all preceeding steps of the e-NDF. 
+```{r echo=FALSE, out.width='60%',fig.align='center'}
 knitr::include_graphics('images/Step5_1.svg')
 ```
+
+---
+
+## Automated recommendation {#autorec}
+An automated recommendation based on a scale of 1-10 is provided to the user based on the user inputs. 
+
+***The user can however [decide the outcome](#outcomedecision) of the NDF from the drop down menu.***
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Step5_2.svg')
+```
+
+---
+
+## Outcome decision {#outcomedecision}
+The outcome of the NDF can be decided by the user by selecting from a drop down menu. Additional information including a justification and an NDF expiry can also be set.
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Step5_3.svg')
+```
+
