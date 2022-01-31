@@ -95,3 +95,8 @@ Do this for all relevant pressure-measure combinations.
 knitr::include_graphics('images/Step4_7.svg')
 ```
 
+# Step 5
+This step summarises the results from all previous steps of the e-NDF. 
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Step5_1.svg')
+```

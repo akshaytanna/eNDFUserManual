@@ -10,7 +10,7 @@ output:
 # Preface{-}
 ```{asis, echo=!knitr::is_latex_output()}
 <p align="center">
-  <img src="images/Cover.jpeg">
+  <img src="images/Cover_2.png">
 </p>
 ```
 This document servers as a user manual for the [BfN-BRT CITES e-NDF](https://user.cites-endf.org). While information from the relevant guidance document is available using the clickable help files for the relevant step/section/question, this website is intended to serve as a document to assist users with using the functionality of the e-NDF.
