@@ -129,8 +129,13 @@ Users can to proceed to Step 6 where additional management measures are suggeste
 
 # Step 6
 
-Step 
-## Step 6.1
+Step 6 involves the assessment of additional management measures (recommendations) to improve the status of the species, enabling the development of subsequent positive NDFs. This step is split into two parts:
+
+1. [Step 6.1](#Step6.1) where ***automated*** recommendations are presented to the user
+
+2. [Step 6.2](#Step6.2) where additional ***user defined*** recommendations can be entered
+
+## Step 6.1 {#Step6.1}
 In step 6.1, an ordered list of recommendations is presented to users. The ordering is as follows:
 
 1. Recommendations that address pressures where the level of risk is high/unknown OR level of confidence is low OR management measures are not effective at addressing the pressure are shown first in <span style="background-color:#f57070">***red boxes***</span>.
@@ -151,5 +156,5 @@ knitr::include_graphics('images/Step6_2.svg')
 
 ---
 
-## Step 6.2
+## Step 6.2 {#Step6.2}
 In Step 6.2, the user is encouraged to include additional management measures (not included in Step 6.1) to manage the species.

@@ -40,4 +40,5 @@ summary
 autorec
 outcomedecision
 step-6
-step-6.2
+Step6.1
+Step6.2
