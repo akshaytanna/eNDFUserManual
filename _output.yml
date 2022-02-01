@@ -3,6 +3,6 @@ bookdown::gitbook:
   config:
     toc:
       before: |
-        <li><a href="./">eNDF manual</a></li>
+         <li class="toc-logo"><a href="https://user.cites-endf.org"><img src="images/Logo.png"></a></li>
       after: |
         <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
