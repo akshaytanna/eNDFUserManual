@@ -158,3 +158,17 @@ knitr::include_graphics('images/Step6_2.svg')
 
 ## Step 6.2 {#Step6.2}
 In Step 6.2, the user is encouraged to include additional management measures (not included in Step 6.1) to manage the species.
+
+This step is designed similar to step 4.
+
+1. A list of additional management measures is populated
+
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Step6.2_1.svg')
+```
+
+2. The additional measures are applied to the NDF. The user can answer relevant questions related to the applicability of the measures to various pressures and recommendations to implement these measures along with a deadline. 
+
+```{r echo=FALSE, out.width='100%',fig.align='center'}
+knitr::include_graphics('images/Step6.2_2.svg')
+```
