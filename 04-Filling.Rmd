@@ -1,5 +1,4 @@
 # (PART) Filling data into an Answerset {-}
-
 # Tools available to facilitate users
 The e-NDF has two inbuilt tools to assist users with filling an NDF.
 

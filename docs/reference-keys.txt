@@ -1,4 +1,4 @@
-developing-an-cites-ndf
+developing-a-cites-ndf
 startanswerset
 name-the-answerset
 create-answersets-as-needed
